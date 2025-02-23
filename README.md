@@ -1,1 +1,2 @@
 # Denoising-Autoencoder-Spectral-Data
+This is the repo for denosing of spectral data from the private rat lung dataset. The dataset originally in .mat file, which is converted into three .npy, one file contains the original data, secon file contains its backgroung and thrird file contains the wavelenghts. The code is develoved to denosie the signals using autoencoders whcih has to be validated with the SNR values and the corealation computatation.
